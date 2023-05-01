@@ -9,7 +9,6 @@ services:
       POSTGRES_DB: mydb
       POSTGRES_USER: myuser
       POSTGRES_PASSWORD: mypassword
-
   web:
     image: abdulatif032200/firdavselbek
     restart: always
